@@ -52,7 +52,7 @@ Volga Mashchitskaya
 
 •  You can find me here at: 
 
-•  Project Link:  https://github.com/your_username/repo_name
+•  Project Link:  h[ttps://github.com/your_username/repo_name](https://github.com/VolgaMashchytskaya/W-Wave-Radio)
 
 
 ## Version History
