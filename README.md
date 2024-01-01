@@ -41,6 +41,8 @@ Open with live Server
 
 •  Bootstrap
 
+•  JS
+
 ## Author 
 
 Volga Mashchitskaya
